@@ -1,4 +1,4 @@
-# LibraryOverview
+# GoodReads-Scraper-and-Analysis
 
 This project scrapes a user's GoodReads data and visually displays info about the user's GoodReads library and about the books the user has read.
 The project consists of 4 jupyter notebooks.
