@@ -11,6 +11,8 @@ The notebooks:
 
 Furthermore, the project contains a requirements.txt file with all the necessary packages/libaries and their versions. 
 
+
+#### Video Examples
 https://user-images.githubusercontent.com/68983725/174291079-0890f65e-50f7-4ca7-b313-8596043470dd.mp4
 Example Video 1. - Scraping GoodReads
 
