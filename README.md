@@ -16,10 +16,11 @@ Furthermore, the project contains a requirements.txt file with all the necessary
 https://user-images.githubusercontent.com/68983725/174291079-0890f65e-50f7-4ca7-b313-8596043470dd.mp4
 Example Video 1. - Scraping GoodReads
 
-https://user-images.githubusercontent.com/68983725/174291094-56af4f6a-0abc-4789-83ae-b60385adbf36.mp4
+(https://user-images.githubusercontent.com/68983725/174291094-56af4f6a-0abc-4789-83ae-b60385adbf36.mp4)
 Example Video 2. - Downloading PDFs from libgen.rs
 
 ![WordCloud - Thinking, Fast and Slow](https://user-images.githubusercontent.com/68983725/174292092-da27fa47-29a8-47d2-be49-edee40bb850f.png)
+
 Example Image - WordCloud of Daniel Kahneman's Thinking, Fast and Slow
 
 
